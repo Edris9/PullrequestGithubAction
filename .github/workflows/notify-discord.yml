@@ -12,5 +12,5 @@ jobs:
       run: |
         curl -H "Content-Type: application/json" \
         -X POST \
-        -d '{"content":"📣 Ny PR skapades av ${{ github.actor }} i repo `${{ github.repository }}`!"}' \
+        -d '{"content":"📣 Ny PR skapades av Edris i repo `${{ github.repository }}`!"}' \
         ${{ secrets.DISCORD_WEBHOOK }}
