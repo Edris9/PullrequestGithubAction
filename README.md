@@ -1,1 +1,1 @@
-(https://github.com/Edris9/PullrequestGithubAction.git/actions/workflows/pull_request_check.yml/badge.svg)
+![PR Build Status](https://github.com/Edris9/PullrequestGithubAction.git/actions/workflows/pull_request_check.yml/badge.svg)
